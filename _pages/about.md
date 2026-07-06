@@ -19,40 +19,53 @@ latest_posts:
   enabled: false
 ---
 
-I am **Shiwei Hong**, a PhD student in Computer Science at [George Mason University](https://www.gmu.edu/), advised by **Prof. Zhicong Lu**.
+I am **Shiwei Hong**, a PhD student in Computer Science at [George Mason University](https://www.gmu.edu/), advised by [**Prof. Zhicong Lu**](https://cec.gmu.edu/profiles/zlu6).
 
-## Featured by George Mason
+## News
 
-<div class="gmu-feature">
-  <p class="gmu-feature__label">GEORGE MASON UNIVERSITY · JUNE 2026</p>
-  <h3><a href="https://www.gmu.edu/news/2026-06/why-did-ai-agent-cross-road" target="_blank" rel="noopener noreferrer">Why did the AI agent cross the road?</a></h3>
-  <p>I was interviewed by George Mason University’s College of Engineering and Computing for a feature on my work.</p>
-  <a class="gmu-feature__link" href="https://www.gmu.edu/news/2026-06/why-did-ai-agent-cross-road" target="_blank" rel="noopener noreferrer">Read the feature →</a>
+<div class="news-list">
+  <article class="news-item">
+    <p class="news-item__label">JULY 2026 · PUBLICATION</p>
+    <h3><a href="https://aclanthology.org/2026.findings-acl.145/" target="_blank" rel="noopener noreferrer">Paper published in Findings of ACL 2026</a></h3>
+    <p>Our paper, <em>Multi-Agent Comedy Club: Investigating Community Discussion Effects on LLM Humor Generation</em>, appears in <em>Findings of the Association for Computational Linguistics: ACL 2026</em>.</p>
+    <a class="news-item__link" href="https://aclanthology.org/2026.findings-acl.145/" target="_blank" rel="noopener noreferrer">View paper →</a>
+  </article>
+
+  <article class="news-item">
+    <p class="news-item__label">JUNE 2026 · FEATURE</p>
+    <h3><a href="https://www.gmu.edu/news/2026-06/why-did-ai-agent-cross-road" target="_blank" rel="noopener noreferrer">Why did the AI agent cross the road?</a></h3>
+    <p>George Mason University’s College of Engineering and Computing interviewed me about the project and its approach to collaborative multi-agent comedy writing.</p>
+    <a class="news-item__link" href="https://www.gmu.edu/news/2026-06/why-did-ai-agent-cross-road" target="_blank" rel="noopener noreferrer">Read the feature →</a>
+  </article>
 </div>
 
 <style>
-  .gmu-feature {
+  .news-list {
+    display: grid;
+    gap: 1rem;
     margin: 1.25rem 0 2rem;
+  }
+  .news-item {
     padding: 1.5rem;
     border: 1px solid var(--global-divider-color, #d9d9d9);
     border-radius: 0.75rem;
     background: var(--global-card-bg-color, transparent);
   }
-  .gmu-feature__label {
+  .news-item__label {
     margin: 0 0 0.75rem;
     color: var(--global-theme-color, #2a7ae2);
     font-size: 0.75rem;
     font-weight: 700;
     letter-spacing: 0.08em;
   }
-  .gmu-feature h3 {
+  .news-item h3 {
     margin: 0 0 0.75rem;
     font-size: 1.35rem;
   }
-  .gmu-feature p {
+  .news-item p {
     margin-bottom: 0.9rem;
   }
-  .gmu-feature__link {
+  .news-item__link {
     font-weight: 600;
   }
 </style>
