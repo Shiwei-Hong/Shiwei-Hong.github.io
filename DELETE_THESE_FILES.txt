@@ -1,0 +1,6 @@
+Delete these existing items from the GitHub repository because they describe ongoing projects:
+
+_pages/projects.md
+_projects/01-pragmatic-intelligence.md
+_projects/02-ai-coperformance.md
+_projects/03-moral-accounting-play.md
