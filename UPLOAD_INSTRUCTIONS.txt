@@ -1,0 +1,10 @@
+Upload the `_pages` and `_projects` folders to the root of the GitHub repository.
+
+This update:
+- reframes the research page around research interests;
+- adds the methodology paragraph;
+- displays only the two selected research projects;
+- replaces “Ongoing research” with “View project”;
+- removes ongoing-status language from the project detail pages.
+
+If `_projects/03-moral-accounting-play.md` still exists in the repository, delete it.
