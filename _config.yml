@@ -7,12 +7,12 @@ first_name: Shiwei
 middle_name:
 last_name: Hong
 contact_note: >
-  The most reliable way to reach me is by email.
+  Email: shong46@gmu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Academic website of Shiwei Hong, a PhD student in Computer Science at George Mason University working in HCI and social computing.
+  Academic website of Shiwei Hong, a PhD student in Computer Science at George Mason University.
 footer_text: >
   Built with the <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> academic website template.
-keywords: human-computer interaction, social computing, artificial intelligence, pragmatics, digital labor, games
+keywords: Shiwei Hong, George Mason University, computer science
 lang: en
 icon: SH
 
@@ -83,8 +83,8 @@ al_folio:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
+search_enabled: false
+socials_in_search: false
 posts_in_search: false
 bib_search: false
 
