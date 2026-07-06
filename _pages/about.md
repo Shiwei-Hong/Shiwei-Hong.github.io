@@ -19,7 +19,7 @@ latest_posts:
   enabled: false
 ---
 
-I am **Shiwei Hong (洪诗蔚)**, a PhD student in Computer Science at [George Mason University](https://www.gmu.edu/), advised by **Prof. Zhicong Lu**.
+I am **Shiwei Hong**, a PhD student in Computer Science at [George Mason University](https://www.gmu.edu/), advised by **Prof. Zhicong Lu**.
 
 ## Featured by George Mason
 
