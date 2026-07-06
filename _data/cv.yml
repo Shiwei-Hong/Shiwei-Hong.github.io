@@ -1,0 +1,20 @@
+cv:
+  name: Shiwei Hong
+  label: PhD Student in Computer Science
+  email: sewcaulfield@gmail.com
+  location: Fairfax, Virginia
+  summary: Researcher in human-computer interaction, social computing, and socially situated artificial intelligence.
+
+  sections:
+    Current Position:
+      - institution: George Mason University
+        location: Fairfax, Virginia
+        area: Computer Science
+        studyType: PhD
+        start_date: 2025
+        end_date: present
+        highlights:
+          - Advised by Prof. Zhicong Lu.
+    Research Interests:
+      - name: Research
+        keywords: Socially situated AI, pragmatic reasoning, online communities, livestreaming, games, digital labor
