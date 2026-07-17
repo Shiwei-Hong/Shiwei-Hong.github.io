@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Computer Science at George Mason University
+subtitle: PhD Student · Human–AI Interaction · Social Computing
 
 profile:
   align: right
@@ -20,6 +20,8 @@ latest_posts:
 ---
 
 I am **Shiwei Hong**, a PhD student in Computer Science at [George Mason University](https://www.gmu.edu/), advised by [**Prof. Zhicong Lu**](https://cec.gmu.edu/profiles/zlu6).
+
+My research examines how artificial intelligence interprets and participates in social life. I study pragmatic language understanding, human–AI co-creation, livestreaming, and online communities, combining methods from **human–computer interaction** and **natural language processing**. I combine system building, computational analysis, controlled experiments, and qualitative research.
 
 ## News
 
@@ -69,5 +71,3 @@ I am **Shiwei Hong**, a PhD student in Computer Science at [George Mason Univers
     font-weight: 600;
   }
 </style>
-
-For academic or professional inquiries, contact me at [shong46@gmu.edu](mailto:shong46@gmu.edu).

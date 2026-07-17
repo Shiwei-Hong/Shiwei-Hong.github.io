@@ -9,10 +9,11 @@ last_name: Hong
 contact_note: >
   Email: shong46@gmu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Academic website of Shiwei Hong, a PhD student in Computer Science at George Mason University.
+  Shiwei Hong is a PhD student at George Mason University studying human-AI interaction,
+  social computing, pragmatic language understanding, and online communities.
 footer_text: >
   Built with the <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> academic website template.
-keywords: Shiwei Hong, George Mason University, computer science
+keywords: Shiwei Hong, human-AI interaction, social computing, natural language processing, George Mason University
 lang: en
 icon: SH
 
@@ -82,7 +83,7 @@ al_folio:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: false
 socials_in_search: false
 posts_in_search: false
@@ -96,9 +97,9 @@ max_width: 1000px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
