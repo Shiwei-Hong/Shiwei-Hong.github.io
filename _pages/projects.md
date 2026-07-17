@@ -68,7 +68,7 @@ nav_order: 2
 </style>
 
 <p class="research-intro">
-Across these projects, I ask how intelligent systems enter already-structured social worlds—and what happens when interpretation, performance, and value are partially delegated to machines.
+Across these projects, I ask how intelligent systems enter already-structured social worlds, and what happens when interpretation, performance, and value are partially delegated to machines.
 </p>
 
 <div class="research-grid">
