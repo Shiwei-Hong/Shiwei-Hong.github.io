@@ -24,6 +24,12 @@ I am **Shiwei Hong**, a PhD student in Computer Science at [George Mason Univers
 My research examines how artificial intelligence interprets and participates in social life. I study pragmatic language understanding, human–AI co-creation, livestreaming, and online communities, combining methods from **human–computer interaction** and **natural language processing**. I combine system building, computational analysis, controlled experiments, and qualitative research.
 
 ## News
+<article class="news-item">
+  <p class="news-item__label">SEPTEMBER 2026 · PUBLICATION</p>
+  <h3><a href="https://arxiv.org/abs/2609.04384" target="_blank" rel="noopener noreferrer">Paper accepted to EMNLP 2026 Main Conference</a></h3>
+  <p>Our paper, <em>You Really Didn't Get That? Benchmarking Social Pragmatic Inference for Indirect and Playful Chinese Online Comments</em>, was accepted to the <em>EMNLP 2026 Main Conference</em>, which had a <strong>15.4% acceptance rate</strong>.</p>
+  <a class="news-item__link" href="https://arxiv.org/abs/2609.04384" target="_blank" rel="noopener noreferrer">View paper →</a>
+</article>
 
 <div class="news-list">
   <article class="news-item">
