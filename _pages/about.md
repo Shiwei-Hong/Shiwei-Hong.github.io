@@ -23,6 +23,11 @@ I am **Shiwei Hong (Sewell Hong)**, a PhD student in Computer Science at [George
 
 My research examines how artificial intelligence interprets and participates in social life. I study pragmatic language understanding, human–AI co-creation, livestreaming, and online communities, drawing on approaches from human–computer interaction and natural language processing. My methods include system building, computational analysis, controlled experiments, and qualitative research.
 
+<nav class="home-quicklinks" aria-label="Explore the site">
+  <a href="{{ '/research/' | relative_url }}">Explore Research &rarr;</a>
+  <a href="{{ '/publications/' | relative_url }}">Cite &rarr;</a>
+</nav>
+
 ## News
 
 <div class="news-list">
@@ -48,9 +53,17 @@ My research examines how artificial intelligence interprets and participates in 
   </article>
 </div>
 
-<p class="news-more"><a href="{{ '/research/' | relative_url }}">Explore research →</a></p>
+## Publications
+
+<div class="publications">
+
+{% bibliography %}
+
+</div>
 
 <style>
+  .home-quicklinks { display: flex; gap: 1.6rem; flex-wrap: wrap; margin: 1.35rem 0 2rem; }
+  .home-quicklinks a { font-size: 0.95rem; font-weight: 600; }
   .news-list { display: grid; gap: 1rem; margin: 1.25rem 0 1rem; }
   .news-item {
     padding: 1.4rem 1.5rem;
@@ -68,5 +81,4 @@ My research examines how artificial intelligence interprets and participates in 
   .news-item h3 { margin: 0 0 0.7rem; font-size: 1.2rem; line-height: 1.35; }
   .news-item p { margin-bottom: 0.75rem; }
   .news-item__link { font-weight: 600; }
-  .news-more { font-size: 0.94rem; margin: 1.5rem 0; }
 </style>
