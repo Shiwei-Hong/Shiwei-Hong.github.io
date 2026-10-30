@@ -3,7 +3,7 @@ layout: page
 title: contact
 permalink: /contact/
 description: Contact Shiwei Hong.
-nav: true
+nav: false
 nav_order: 2
 ---
 
