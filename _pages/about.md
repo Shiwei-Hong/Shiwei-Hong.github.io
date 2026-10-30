@@ -48,7 +48,7 @@ My research examines how artificial intelligence interprets and participates in 
   </article>
 </div>
 
-<p class="news-more"><a href="{{ '/research/' | relative_url }}">Explore research →</a> <span aria-hidden="true">·</span> <a href="{{ '/news/' | relative_url }}">More news →</a></p>
+<p class="news-more"><a href="{{ '/research/' | relative_url }}">Explore research →</a></p>
 
 <style>
   .news-list { display: grid; gap: 1rem; margin: 1.25rem 0 1rem; }
@@ -69,5 +69,4 @@ My research examines how artificial intelligence interprets and participates in 
   .news-item p { margin-bottom: 0.75rem; }
   .news-item__link { font-weight: 600; }
   .news-more { font-size: 0.94rem; margin: 1.5rem 0; }
-  .news-more span { padding: 0 0.45rem; opacity: 0.6; }
 </style>
